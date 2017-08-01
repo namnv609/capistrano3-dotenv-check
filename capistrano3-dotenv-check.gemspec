@@ -3,8 +3,8 @@ Gem::Specification.new do |spec|
   spec.version = "0.0.1"
   spec.authors = ["NamNV609"]
   spec.email = ["namnv609@gmail.com"]
-  spec.description = ["Capistrano3 check .env variables"]
-  spec.summary = ["Capistrano3 check .env variables"]
+  spec.description = "Capistrano3 check .env variables"
+  spec.summary = "Capistrano3 check .env variables"
   spec.license = "MIT"
   spec.homepage = "https://github.com/namnv609/capistrano3-dotenv-check"
   spec.files = `git ls-files`.split($/)
