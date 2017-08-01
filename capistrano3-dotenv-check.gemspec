@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name = "capistrano3-dotenv-check"
-  spec.version = "0.0.1"
+  spec.version = "0.0.2"
   spec.authors = ["NamNV609"]
   spec.email = ["namnv609@gmail.com"]
   spec.description = "Capistrano3 check .env variables"
